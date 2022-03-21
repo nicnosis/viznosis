@@ -1,2 +1,0 @@
-# viznosis
-Viznosis website
