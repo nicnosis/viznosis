@@ -6,3 +6,7 @@
 # Bundle's config.
 .bundle/
 vendor/
+
+
+# .idea
+**/.idea/workspace.xml **/.idea/tasks.xml
