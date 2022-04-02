@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Nicolas Aguirre"
 ---
 
-## You're ready to go!
+## Nicolas Aguirre - MFA
 
-Start developing your Jekyll website.
+This website is under construction.
 
-# O yay
